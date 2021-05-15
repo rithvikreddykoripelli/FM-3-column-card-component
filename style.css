@@ -12,6 +12,7 @@
 .card {
     width:100%;
     padding:2em;
+    padding-bottom:4em;
     position: relative;
 }
 
@@ -19,6 +20,7 @@ h1 {
     font-family: 'Big Shoulders Display', cursive;;
     font-weight: 700;
     color:hsl(0, 0%, 95%);
+    text-transform: uppercase;
 }
 
 p {
@@ -48,7 +50,7 @@ p {
     border-radius: 20px;
     font-family: 'Lexend Deca', sans-serif;
     position: absolute;
-    bottom:1.25em;
+    bottom:2.25em;
 }
 
 .orange a {
